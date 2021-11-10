@@ -1,0 +1,302 @@
+2021-09-14 12:29:09,203 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 12:29:09,203 :INFO :Utilities.Base :Name Mouni
+2021-09-14 12:29:09,353 :INFO :Utilities.Base :Email me@gmail.com
+2021-09-14 12:29:09,413 :INFO :Utilities.Base :Password gfdghh
+2021-09-14 12:29:09,515 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 12:29:09,558 :INFO :Utilities.Base :Gender Female
+2021-09-14 12:29:09,662 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 12:29:12,071 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 12:29:12,071 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 12:29:12,071 :INFO :Utilities.Base :Name Venkat
+2021-09-14 12:29:12,071 :INFO :Utilities.Base :Name Venkat
+2021-09-14 12:29:12,152 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 12:29:12,152 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 12:29:12,207 :INFO :Utilities.Base :Password gffd
+2021-09-14 12:29:12,207 :INFO :Utilities.Base :Password gffd
+2021-09-14 12:29:12,320 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 12:29:12,320 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 12:29:12,334 :INFO :Utilities.Base :Gender Male
+2021-09-14 12:29:12,334 :INFO :Utilities.Base :Gender Male
+2021-09-14 12:29:12,398 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 12:29:12,398 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 12:29:20,274 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 12:29:20,274 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 12:29:20,274 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 12:29:20,274 :INFO :Utilities.Base :Homepage
+2021-09-14 12:29:20,274 :INFO :Utilities.Base :Homepage
+2021-09-14 12:29:20,274 :INFO :Utilities.Base :Homepage
+2021-09-14 12:29:21,557 :INFO :Utilities.Base :ShopPage
+2021-09-14 12:29:21,557 :INFO :Utilities.Base :ShopPage
+2021-09-14 12:29:21,557 :INFO :Utilities.Base :ShopPage
+2021-09-14 12:29:21,732 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="ecb5e22d751d358c3b1b00f910cbc73e", element="6b489e92-eef7-49de-80be-66eb17d5d37e")>]
+2021-09-14 12:29:21,732 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="ecb5e22d751d358c3b1b00f910cbc73e", element="6b489e92-eef7-49de-80be-66eb17d5d37e")>]
+2021-09-14 12:29:21,732 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="ecb5e22d751d358c3b1b00f910cbc73e", element="6b489e92-eef7-49de-80be-66eb17d5d37e")>]
+2021-09-14 12:29:21,743 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 12:29:21,743 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 12:29:21,743 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 12:29:21,823 :INFO :Utilities.Base :Country entered as India
+2021-09-14 12:29:21,823 :INFO :Utilities.Base :Country entered as India
+2021-09-14 12:29:21,823 :INFO :Utilities.Base :Country entered as India
+2021-09-14 12:29:26,962 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="ecb5e22d751d358c3b1b00f910cbc73e", element="6996f07e-0134-40aa-96cd-7adbf2c0ff29")>]
+2021-09-14 12:29:26,962 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="ecb5e22d751d358c3b1b00f910cbc73e", element="6996f07e-0134-40aa-96cd-7adbf2c0ff29")>]
+2021-09-14 12:29:26,962 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="ecb5e22d751d358c3b1b00f910cbc73e", element="6996f07e-0134-40aa-96cd-7adbf2c0ff29")>]
+2021-09-14 12:29:27,101 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 12:29:27,101 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 12:29:27,101 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 12:30:44,262 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 12:30:44,262 :INFO :Utilities.Base :Name Mouni
+2021-09-14 12:30:44,418 :INFO :Utilities.Base :Email me@gmail.com
+2021-09-14 12:30:44,479 :INFO :Utilities.Base :Password gfdghh
+2021-09-14 12:30:44,583 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 12:30:44,631 :INFO :Utilities.Base :Gender Female
+2021-09-14 12:30:44,740 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 12:30:47,197 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 12:30:47,197 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 12:30:47,197 :INFO :Utilities.Base :Name Venkat
+2021-09-14 12:30:47,197 :INFO :Utilities.Base :Name Venkat
+2021-09-14 12:30:47,280 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 12:30:47,280 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 12:30:47,335 :INFO :Utilities.Base :Password gffd
+2021-09-14 12:30:47,335 :INFO :Utilities.Base :Password gffd
+2021-09-14 12:30:47,425 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 12:30:47,425 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 12:30:47,462 :INFO :Utilities.Base :Gender Male
+2021-09-14 12:30:47,462 :INFO :Utilities.Base :Gender Male
+2021-09-14 12:30:47,528 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 12:30:47,528 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 12:30:55,593 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 12:30:55,593 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 12:30:55,593 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 12:30:55,593 :INFO :Utilities.Base :Homepage
+2021-09-14 12:30:55,593 :INFO :Utilities.Base :Homepage
+2021-09-14 12:30:55,593 :INFO :Utilities.Base :Homepage
+2021-09-14 12:30:56,876 :INFO :Utilities.Base :ShopPage
+2021-09-14 12:30:56,876 :INFO :Utilities.Base :ShopPage
+2021-09-14 12:30:56,876 :INFO :Utilities.Base :ShopPage
+2021-09-14 12:30:57,058 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="6c87a904969e034c5b2e0cd9e8e9f383", element="c01bc577-901e-4e14-8d95-c7d42c2d93d4")>]
+2021-09-14 12:30:57,058 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="6c87a904969e034c5b2e0cd9e8e9f383", element="c01bc577-901e-4e14-8d95-c7d42c2d93d4")>]
+2021-09-14 12:30:57,058 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="6c87a904969e034c5b2e0cd9e8e9f383", element="c01bc577-901e-4e14-8d95-c7d42c2d93d4")>]
+2021-09-14 12:30:57,071 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 12:30:57,071 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 12:30:57,071 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 12:30:57,151 :INFO :Utilities.Base :Country entered as India
+2021-09-14 12:30:57,151 :INFO :Utilities.Base :Country entered as India
+2021-09-14 12:30:57,151 :INFO :Utilities.Base :Country entered as India
+2021-09-14 12:31:02,323 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="6c87a904969e034c5b2e0cd9e8e9f383", element="1c1655de-29e6-4b4c-ba0b-559f9ecdaca3")>]
+2021-09-14 12:31:02,323 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="6c87a904969e034c5b2e0cd9e8e9f383", element="1c1655de-29e6-4b4c-ba0b-559f9ecdaca3")>]
+2021-09-14 12:31:02,323 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="6c87a904969e034c5b2e0cd9e8e9f383", element="1c1655de-29e6-4b4c-ba0b-559f9ecdaca3")>]
+2021-09-14 12:31:02,473 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 12:31:02,473 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 12:31:02,473 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 12:45:15,797 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 12:45:15,798 :INFO :Utilities.Base :Name Mouni
+2021-09-14 12:45:15,965 :INFO :Utilities.Base :Email me@gmail.com
+2021-09-14 12:45:16,024 :INFO :Utilities.Base :Password gfdghh
+2021-09-14 12:45:16,125 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 12:45:16,168 :INFO :Utilities.Base :Gender Female
+2021-09-14 12:45:16,280 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 12:45:18,688 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 12:45:18,688 :INFO :Utilities.Base :Name Venkat
+2021-09-14 12:45:18,768 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 12:45:18,820 :INFO :Utilities.Base :Password gffd
+2021-09-14 12:45:18,930 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 12:45:18,945 :INFO :Utilities.Base :Gender Male
+2021-09-14 12:45:19,014 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 12:45:26,744 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 12:45:26,744 :INFO :Utilities.Base :Homepage
+2021-09-14 12:45:28,042 :INFO :Utilities.Base :ShopPage
+2021-09-14 12:45:28,224 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="df2a881f9db14917ec02e80c713e43a5", element="6f4941fc-e69d-4a2c-8e5b-0bc19fc0033c")>]
+2021-09-14 12:45:28,236 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 12:45:28,317 :INFO :Utilities.Base :Country entered as India
+2021-09-14 12:45:33,490 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="df2a881f9db14917ec02e80c713e43a5", element="34a972f1-e46d-4348-a705-8011fefeed81")>]
+2021-09-14 12:45:33,652 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 15:02:16,851 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:02:16,852 :INFO :Utilities.Base :Name Mouni
+2021-09-14 15:02:17,008 :INFO :Utilities.Base :Email me@gmail.com
+2021-09-14 15:02:17,062 :INFO :Utilities.Base :Password gfdghh
+2021-09-14 15:02:17,155 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:02:17,189 :INFO :Utilities.Base :Gender Female
+2021-09-14 15:02:17,289 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:02:19,848 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:02:19,848 :INFO :Utilities.Base :Name Venkat
+2021-09-14 15:02:19,928 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 15:02:19,981 :INFO :Utilities.Base :Password gffd
+2021-09-14 15:02:20,067 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:02:20,106 :INFO :Utilities.Base :Gender Male
+2021-09-14 15:02:20,168 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:02:28,708 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 15:02:28,709 :INFO :Utilities.Base :Homepage
+2021-09-14 15:02:30,500 :INFO :Utilities.Base :ShopPage
+2021-09-14 15:02:30,682 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="68fb36239283efa00a2b11146ade7974", element="65cbd5da-9acf-41b7-aafc-da5adf13645f")>]
+2021-09-14 15:02:30,693 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 15:02:30,781 :INFO :Utilities.Base :Country entered as India
+2021-09-14 15:02:35,898 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="68fb36239283efa00a2b11146ade7974", element="c205bd3e-c604-4e44-8eb2-3bcb9c2300b6")>]
+2021-09-14 15:02:36,034 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 15:18:49,515 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:18:49,516 :INFO :Utilities.Base :Name Mouni
+2021-09-14 15:18:49,721 :INFO :Utilities.Base :Email me@gmail.com
+2021-09-14 15:18:49,780 :INFO :Utilities.Base :Password gfdghh
+2021-09-14 15:18:49,913 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:18:49,931 :INFO :Utilities.Base :Gender Female
+2021-09-14 15:18:50,031 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:18:52,472 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:18:52,472 :INFO :Utilities.Base :Name Venkat
+2021-09-14 15:18:52,544 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 15:18:52,595 :INFO :Utilities.Base :Password gffd
+2021-09-14 15:18:52,681 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:18:52,717 :INFO :Utilities.Base :Gender Male
+2021-09-14 15:18:52,779 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:19:00,538 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 15:19:00,538 :INFO :Utilities.Base :Homepage
+2021-09-14 15:19:01,851 :INFO :Utilities.Base :ShopPage
+2021-09-14 15:19:02,042 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="9c0386c59ed83995bb9bc1beb92ac312", element="2499b6e5-9142-4cb2-a641-06f5739813f6")>]
+2021-09-14 15:19:02,052 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 15:19:02,125 :INFO :Utilities.Base :Country entered as India
+2021-09-14 15:19:07,279 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="9c0386c59ed83995bb9bc1beb92ac312", element="0ef1e840-d76d-4ee1-804c-52184e6a1f03")>]
+2021-09-14 15:19:07,443 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 15:23:14,328 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:23:14,328 :INFO :Utilities.Base :Name Mouni
+2021-09-14 15:23:14,456 :INFO :Utilities.Base :Email me@gmail.com
+2021-09-14 15:23:14,509 :INFO :Utilities.Base :Password gfdghh
+2021-09-14 15:23:14,623 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:23:14,639 :INFO :Utilities.Base :Gender Female
+2021-09-14 15:23:14,731 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:23:17,168 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:23:17,168 :INFO :Utilities.Base :Name Venkat
+2021-09-14 15:23:17,243 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 15:23:17,294 :INFO :Utilities.Base :Password gffd
+2021-09-14 15:23:17,379 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:23:17,413 :INFO :Utilities.Base :Gender Male
+2021-09-14 15:23:17,477 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:23:25,694 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 15:23:25,694 :INFO :Utilities.Base :Homepage
+2021-09-14 15:23:27,102 :INFO :Utilities.Base :ShopPage
+2021-09-14 15:23:27,270 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="57c43cd534aeb939b1536b74a3c1f8c1", element="0c108b5d-81a3-4425-b2c8-754fdd2ec19d")>]
+2021-09-14 15:23:27,281 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 15:23:27,354 :INFO :Utilities.Base :Country entered as India
+2021-09-14 15:23:32,473 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="57c43cd534aeb939b1536b74a3c1f8c1", element="3e106913-5248-4d29-a866-49a18f48d8f2")>]
+2021-09-14 15:23:32,608 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 15:31:20,626 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:31:20,627 :INFO :Utilities.Base :Name Mouni
+2021-09-14 15:31:20,797 :INFO :Utilities.Base :Email me@gmail.com
+2021-09-14 15:31:20,850 :INFO :Utilities.Base :Password gfdghh
+2021-09-14 15:31:20,976 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:31:20,994 :INFO :Utilities.Base :Gender Female
+2021-09-14 15:31:21,103 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:31:23,843 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:31:23,843 :INFO :Utilities.Base :Name Venkat
+2021-09-14 15:31:23,889 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 15:31:23,936 :INFO :Utilities.Base :Password gffd
+2021-09-14 15:31:24,009 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:31:24,021 :INFO :Utilities.Base :Gender Male
+2021-09-14 15:31:24,081 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:31:33,349 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 15:31:33,350 :INFO :Utilities.Base :Homepage
+2021-09-14 15:31:35,105 :INFO :Utilities.Base :ShopPage
+2021-09-14 15:31:35,294 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="0b1c3c62391203612ffa7a60c454b9fc", element="c5f02376-62cb-4771-aa70-77111b2275a5")>]
+2021-09-14 15:31:35,305 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 15:31:35,380 :INFO :Utilities.Base :Country entered as India
+2021-09-14 15:31:40,565 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="0b1c3c62391203612ffa7a60c454b9fc", element="43409688-8ac6-4947-92bd-b688e0f97371")>]
+2021-09-14 15:31:40,721 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 15:33:54,976 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:33:54,978 :INFO :Utilities.Base :Name Mouni
+2021-09-14 15:33:55,134 :INFO :Utilities.Base :Email me@gmail.com
+2021-09-14 15:33:55,191 :INFO :Utilities.Base :Password gfdghh
+2021-09-14 15:33:55,310 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:33:55,327 :INFO :Utilities.Base :Gender Female
+2021-09-14 15:33:55,431 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:33:57,959 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:33:57,960 :INFO :Utilities.Base :Name Venkat
+2021-09-14 15:33:58,034 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 15:33:58,087 :INFO :Utilities.Base :Password gffd
+2021-09-14 15:33:58,175 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:33:58,210 :INFO :Utilities.Base :Gender Male
+2021-09-14 15:33:58,274 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:34:06,641 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 15:34:06,641 :INFO :Utilities.Base :Homepage
+2021-09-14 15:34:08,098 :INFO :Utilities.Base :ShopPage
+2021-09-14 15:34:08,282 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="ee1c6cbf5ae85da44bea9984ba812522", element="7ef2f5d1-0fc2-4a7a-9e18-9661fbcd86ad")>]
+2021-09-14 15:34:08,293 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 15:34:08,370 :INFO :Utilities.Base :Country entered as India
+2021-09-14 15:34:13,527 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="ee1c6cbf5ae85da44bea9984ba812522", element="8c001da1-73f1-4935-8a99-0845800647fa")>]
+2021-09-14 15:34:13,710 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 15:42:19,369 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:42:19,371 :INFO :Utilities.Base :Name Mouni
+2021-09-14 15:42:19,528 :INFO :Utilities.Base :Email me@gmail.com
+2021-09-14 15:42:19,584 :INFO :Utilities.Base :Password gfdghh
+2021-09-14 15:42:19,681 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:42:19,718 :INFO :Utilities.Base :Gender Female
+2021-09-14 15:42:19,817 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:42:22,274 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:42:22,274 :INFO :Utilities.Base :Name Venkat
+2021-09-14 15:42:22,349 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 15:42:22,401 :INFO :Utilities.Base :Password gffd
+2021-09-14 15:42:22,508 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:42:22,523 :INFO :Utilities.Base :Gender Male
+2021-09-14 15:42:22,586 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:42:30,498 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 15:42:30,498 :INFO :Utilities.Base :Homepage
+2021-09-14 15:42:31,815 :INFO :Utilities.Base :ShopPage
+2021-09-14 15:42:31,983 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="2e89ff7ff43af72bf19078173dfc755a", element="c18dab66-b00d-48c3-9ea1-ad13267fd009")>]
+2021-09-14 15:42:31,992 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 15:42:32,070 :INFO :Utilities.Base :Country entered as India
+2021-09-14 15:42:37,234 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="2e89ff7ff43af72bf19078173dfc755a", element="b92812cb-68db-4c9d-a47a-585b8958d310")>]
+2021-09-14 15:42:37,369 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 15:44:50,039 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:44:50,040 :INFO :Utilities.Base :Name Mouni
+2021-09-14 15:44:50,193 :INFO :Utilities.Base :Email me@gmail.com
+2021-09-14 15:44:50,245 :INFO :Utilities.Base :Password gfdghh
+2021-09-14 15:44:50,361 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:44:50,379 :INFO :Utilities.Base :Gender Female
+2021-09-14 15:44:50,476 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:44:52,919 :INFO :Utilities.Base :Protractor Tutorial
+2021-09-14 15:44:52,919 :INFO :Utilities.Base :Name Venkat
+2021-09-14 15:44:52,998 :INFO :Utilities.Base :Email vi@gmail.com
+2021-09-14 15:44:53,049 :INFO :Utilities.Base :Password gffd
+2021-09-14 15:44:53,172 :INFO :Utilities.Base :Gender Dropdown
+2021-09-14 15:44:53,187 :INFO :Utilities.Base :Gender Male
+2021-09-14 15:44:53,252 :INFO :Utilities.Base :×
+Success! The Form has been submitted successfully!.
+2021-09-14 15:45:01,002 :INFO :Utilities.Base :['blackberry', 'Iphone X']
+2021-09-14 15:45:01,002 :INFO :Utilities.Base :Homepage
+2021-09-14 15:45:02,626 :INFO :Utilities.Base :ShopPage
+2021-09-14 15:45:02,799 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="f78878ed5be269cd7a9cd892228f7948", element="6458bb8d-3aeb-4cad-bf3a-ca06e0583ff1")>]
+2021-09-14 15:45:02,809 :INFO :Utilities.Base :Confirmation Page
+2021-09-14 15:45:02,890 :INFO :Utilities.Base :Country entered as India
+2021-09-14 15:45:08,084 :INFO :Utilities.Base :[<selenium.webdriver.remote.webelement.WebElement (session="f78878ed5be269cd7a9cd892228f7948", element="9c197bf3-34a0-4e4f-a9f6-24a6f5050144")>]
+2021-09-14 15:45:08,256 :INFO :Utilities.Base :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
